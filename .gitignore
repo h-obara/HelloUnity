@@ -1,7 +1,6 @@
 ﻿
-Core/Library/*
-Core/Library/metadata/*
-Core/Temp/
+Library/
+Temp/
 
 Release/
 !Release/*.exe
